@@ -1,0 +1,17 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+zvonok/__pycache__/
+zvonok/*/__pycache__/
+zvonok/*/*/__pycache__/
+zvonok/*/*/*/__pycache__/
+.venv/
+venv/
+
+# Local PostgreSQL data
+db/
