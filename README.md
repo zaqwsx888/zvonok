@@ -18,7 +18,7 @@ python3 task1.py
 ```commandline
 python3 task2.py hours_worked.txt
 ```
-Так же можно ввести и бещ=з имени файла:
+Так же можно ввести и без имени файла:
 ```commandline
 python3 task2.py
 ```
